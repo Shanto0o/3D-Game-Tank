@@ -12,7 +12,7 @@ Trailer : https://www.youtube.com/watch?v=VD92IOL5OIw
 - **Alexis Dubarry**
 
 ## Description
-Carottales est un jeu de plateforme 3D dans lequel vous incarnez un lapin aventurier ; collectez un maximum de carottes, franchissez les niveaux dans le temps imparti et, enfin, accédez à la Carotte Sacrée.
+Carrotales est un jeu de plateforme 3D dans lequel vous incarnez un lapin aventurier ; collectez un maximum de carottes, franchissez les niveaux dans le temps imparti et, enfin, accédez à la Carotte Sacrée.
 
 ## Niveaux
 1. **Niveau 1** : île flottante avec une montagne. Deux chemins (facile / difficile) et deux mini-jeux : pêche et dés.
